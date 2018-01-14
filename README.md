@@ -1,2 +1,2 @@
 # spring-boot
-Spring Boot Example Projects
+GIT Configurations for other projects
